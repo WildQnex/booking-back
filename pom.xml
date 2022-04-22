@@ -25,7 +25,7 @@
         <mysql-connector-java.version>6.0.6</mysql-connector-java.version>
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
         <ibatis2-sqlmap.version>2.1.7.597</ibatis2-sqlmap.version>
-        <spring.version>4.3.16.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
     </properties>
 
     <parent>
